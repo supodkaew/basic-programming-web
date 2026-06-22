@@ -1,0 +1,19 @@
+site_name: Basic Computer Programming
+site_description: เอกสารประกอบการสอนวิชา Basic Computer Programming
+site_author: Mintang
+
+theme:
+  name: material
+  language: th
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Assignments: assignments/index.md
+  - Exercises: exercises/index.md
+  - Code: code/index.md
+  - Simulation: simulation/index.md
